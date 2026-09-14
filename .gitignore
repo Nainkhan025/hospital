@@ -25,3 +25,11 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
+/01-project-overview.md
+/02-architecture.md
+/03-depedencies.md
+/04-database-schema.md
+/05-security.md
+/06-modules-featuress.md
+/07-roadmap.md
+
